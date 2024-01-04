@@ -85,15 +85,15 @@ svg path#heart {
   position: fixed;
   bottom: 0;
   width: 100%;
-  padding: 10px; /* Adjust padding as needed */
-  font-size: 40px; /* Adjust the font size as needed */
+  padding: 10px;
+  font-size: 40px;
 }
 
 .center a {
-  color: lightblue; /* Change hyperlink color to navy blue */
-  text-decoration: none; /* Remove underline from hyperlinks */
+  color: lightblue;
+  text-decoration: none;
 }
 
 .center a:hover {
-  text-decoration: underline; /* Underline hyperlinks on hover */
+  text-decoration: underline;
 }
